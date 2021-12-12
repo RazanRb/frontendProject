@@ -1,0 +1,38 @@
+{
+    "founders": [
+        {
+            "id" : "1",
+            "name" : "RASHA TELLO",
+            "details": "business manager"
+                
+            ,
+
+            "url" : "/imgs/Segerr hlooo (1).jpg",
+            "urlb":"/imgs/Remission Greatest in SLE Patients Off Corticosteroids.jpg"
+        },
+
+        {
+            "id" : "2",
+            "name" : "MOHAMMAD EID",
+            "details": "Engineer"
+                
+            ,
+
+            "url" : "/imgs/Segerr hlooo (1).jpg",
+            "urlb":"/imgs/Remission Greatest in SLE Patients Off Corticosteroids.jpg"
+               
+        },
+
+        {
+            "id" : "1",
+            "name" : "RASHA TELLO",
+            "details": "business manager"
+                
+            ,
+
+            "url" : "/imgs/Segerr hlooo (1).jpg",
+            "urlb":"/imgs/Remission Greatest in SLE Patients Off Corticosteroids.jpg"
+        }
+
+    ]
+}

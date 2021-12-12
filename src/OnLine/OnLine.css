@@ -1,0 +1,27 @@
+
+
+.nav-tabs{
+    margin-top: 40px !important;
+    margin-left: 235px !important;
+   
+    
+}
+.nav-link {
+    color: #853246 !important;
+}
+.nav-link.active {
+    background-color:#85324500 !important;
+}
+@media  (max-width:767px) {
+    .nav-link {
+        margin-top: 5px;
+        font-size: 10px;
+    }
+
+    
+.nav-tabs{
+    margin-left: 55px !important;
+    
+}
+}
+    
